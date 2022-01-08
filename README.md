@@ -10,6 +10,7 @@ Obiectivele aplicației:
 4. Sa filtreze datele obtinute si sa patreze in dataTable datele care corespund criteriilor stabilite de client.
 5. Sa stocheze datele filtrate intr-un csv/excel.
 6. Sa transmita csv-ul/excel-ul creat clientului.
+
 Grupul țintă
 Produsul e destinat oamenilor ce intentioneaza sa isi achizitioneze un autoturism de pe un website de anunturi si nu dispun de timp sau nu cunosc modul de utilizare al platformelor de anunturi.
 User Stories:
